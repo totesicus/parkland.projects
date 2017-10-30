@@ -1,0 +1,31 @@
+G:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe.config
+G:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe
+G:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.pdb
+G:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.xml
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Form1.resources
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Resources.resources
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.vbproj.GenerateResource.Cache
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.exe
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.xml
+G:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.pdb
+E:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe.config
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.exe
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.xml
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.pdb
+E:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe
+E:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.pdb
+E:\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.xml
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Form1.resources
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Resources.resources
+E:\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.vbproj.GenerateResource.Cache
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe.config
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.exe
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.xml
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.pdb
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.exe
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.pdb
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\bin\Debug\PayRateCalculator.xml
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Form1.resources
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.Resources.resources
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.vbproj.GenerateResource.Cache
+C:\Users\TZ Turner\Documents\School\CIS_122\PayRateCalculator\PayRateCalculator\obj\Debug\PayRateCalculator.vbprojResolveAssemblyReference.cache
