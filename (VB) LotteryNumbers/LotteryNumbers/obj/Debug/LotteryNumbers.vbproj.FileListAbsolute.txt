@@ -1,0 +1,14 @@
+F:\CIS_122\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe.config
+F:\CIS_122\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe
+F:\CIS_122\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.pdb
+F:\CIS_122\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.xml
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.Form1.resources
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.Resources.resources
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.vbproj.GenerateResource.Cache
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.exe
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.xml
+F:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.pdb
+G:\CIS_122\LotteryNumbers\LotteryNumbers\bin\Debug\LotteryNumbers.exe.config
+G:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.exe
+G:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.xml
+G:\CIS_122\LotteryNumbers\LotteryNumbers\obj\Debug\LotteryNumbers.pdb
