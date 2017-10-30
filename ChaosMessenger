@@ -1,0 +1,42 @@
+#!/bin/bash
+
+Columns=$(tput cols)
+Rows=$(tput lines)
+
+StartCol=$(($Columns-35))
+StartRow=$(($Rows/5))
+
+file="/home/staff/jkoontz/boxfile"
+
+# SampleText="Hi there, I rely on memes and nihilism to hide my ever-increasing distaste for existence!"
+
+while true
+do
+	fileText=$(nc -l -p 9565)
+
+	tput sc	
+	tput cup $StartRow $StartCol
+	echo "From:-----------------------#"
+
+	for Line in {1..7}
+	do
+		tput cup $(($StartRow + $Line)) $StartCol
+		echo -e "|"
+		tput cup $(($StartRow + $Line)) $(($StartCol + 28))
+		echo -e "|"
+	done
+
+	tput cup $(($StartRow + 8)) $StartCol
+	echo "#---------------------------#"
+	
+	textPos=0		
+	for Line in {1..7}
+	do
+		tput cup $((($StartRow + 1) + ($Line))) $(($StartCol +2))
+		echo ${fileText:$textPos:25}
+		textPos=$((textPos+25))
+	done
+		
+	tput rc
+	
+done
