@@ -1,3 +1,1 @@
-# CSC175-Sp17-TylerTurner
-
-Tyler Turner
+# totesicus.github.io
