@@ -1,0 +1,7 @@
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\bin\Debug\PayRate(Console).exe.config
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\bin\Debug\PayRate(Console).exe
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\bin\Debug\PayRate(Console).pdb
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\obj\Debug\PayRate(Console).csprojResolveAssemblyReference.cache
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\obj\Debug\PayRate(Console).csproj.CoreCompileInputs.cache
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\obj\Debug\PayRate(Console).exe
+C:\Users\TZ Turner\Documents\1_Coding\PayRate(Console)\PayRate(Console)\obj\Debug\PayRate(Console).pdb
