@@ -16,7 +16,7 @@ namespace PayRate_Console_
             // Double variables for parsed String output
             double hours, payRate, payRateResult, tax, taxResult, result;
 
-            // Boolean variable for loop
+            // Boolean variable for loop set to true
             Boolean loop = true;
 
             do
@@ -44,7 +44,7 @@ namespace PayRate_Console_
                 // Parse to type double
                 tax = double.Parse(taxIn);
 
-                // Make calculation
+                // Make calculation:
                 // Find amount in taxes taken out of pay rate
                 // Subtract that amount from pay rate
                 // Calculate approximate pay by multiplying taxed pay rate by hours worked
@@ -55,20 +55,34 @@ namespace PayRate_Console_
                 // Output approximate pay in currency format
                 Console.Out.WriteLine("\nYour paycheck for the week will be (approx): " +
                             result.ToString("C"));
+                
+                // Boolean variable for second loop
+                Boolean loop2 = true;
 
-                // Continue or end the loop via user input
-                Console.Out.WriteLine("Make another calculation? (y/n)");
-                response = Console.ReadLine();
-
-                if (response.Equals("y"))
+                do
                 {
-                    Console.Out.WriteLine("\n");
-                    continue;
+                    // Continue or end the loop via user input
+                    Console.Out.WriteLine("Make another calculation? (y/n)");
+                    response = Console.ReadLine();
 
-                } else if (response.Equals("n"))
-                {
-                    loop = false;
-                }
+                    // If yes, break from this 'while' loop to re-enter previous 'while' loop
+                    if (response.Equals("y"))
+                    {
+                        break;
+                    }
+                    // If no, exit program completely
+                    else if (response.Equals("n"))
+                    {
+                        loop2 = false;
+                        loop = false;
+                    }
+                    // If anything other than yes or no, repeat the question
+                    else
+                    {
+                        Console.WriteLine("Please enter y or n.");
+                        continue;
+                    }
+                } while (loop2 == true);
 
             } while (loop == true);
         }
