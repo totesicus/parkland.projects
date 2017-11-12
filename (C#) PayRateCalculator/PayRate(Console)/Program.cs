@@ -18,6 +18,8 @@ namespace PayRate_Console_
 
             // Boolean variable for loop set to true
             Boolean loop = true;
+            
+            Test test = new Test();
 
             do
             {   
@@ -27,6 +29,7 @@ namespace PayRate_Console_
                 // Take user input in String format 
                 Console.Out.WriteLine("Hours worked:");           
                 hoursIn = Console.ReadLine();
+                test.InputTest(hoursIn);
 
                 // Parse to type double
                 hours = double.Parse(hoursIn);
