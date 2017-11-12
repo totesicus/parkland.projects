@@ -88,3 +88,14 @@ namespace PayRate_Console_
         }
     }
 }
+
+class Test
+    {
+        public void InputTest(string str)
+        {
+            if (str.Equals(""))
+            {
+                Console.Out.WriteLine("Please enter a numeric value.");
+            }
+        }
+    }
